@@ -83,4 +83,4 @@ By following these steps, you’ll significantly improve the security of your Fi
 Stay safe out there!
 
 
-#FiveHub #FiveM #RemoteControl #Hacked #ScriptKiddies
+#FiveHub #FiveM #RemoteControl #Hacked #ScriptKiddies #Remove FiveHub #Stop FiveHub
