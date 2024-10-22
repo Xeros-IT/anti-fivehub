@@ -74,8 +74,13 @@ To further protect your system, you should add the following entries to your `C:
 This will prevent your system from connecting to these malicious sites.
 
 ---
+## More ideas to stop this?
+Just edit the readme.md and i'll look into it and publish it! Thanks for the contribution. 
 
 ## Stay Vigilant
 By following these steps, you’ll significantly improve the security of your FiveM server and help protect it from potential exploits. Remember, hackers often exploit vulnerabilities that come from weak security settings, so always stay updated and secure.
 
 Stay safe out there!
+
+
+#FiveHub #FiveM #RemoteControl #Hacked #ScriptKiddies
